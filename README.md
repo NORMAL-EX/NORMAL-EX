@@ -10,9 +10,7 @@
 </div>
 </p>
 
-- For **complex projects** requiring high performance, I use **Rust + Actix-Web** to ensure optimal efficiency
-- For **simple and quick projects**, I choose **PHP** for rapid development and deployment
-- Most familiar with: **Rust**, **TypeScript**, **React**, **Golang** and **PHP**
+- Most familiar with: **Rust**, **TypeScript**, **React**, **Golang**
 
 <div align="center" style="margin-top: 20px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORMAL-EX&layout=compact&langs_count=8&theme=dark"/>
@@ -31,3 +29,4 @@
   <i>✨ "Every line of code is a step towards turning dreams into reality." ✨</i>
 
 </div>
+
