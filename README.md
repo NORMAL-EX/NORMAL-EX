@@ -1,35 +1,42 @@
-### Hi, I'm NORMAL-EX 👋
+### Hey, I'm NORMAL-EX 👋
 
-Windows 系统工具开发者 / Cloud-PE Team 成员
-
----
-
-**技术栈**
-
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-000?style=flat&logo=vue.js)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Tauri](https://img.shields.io/badge/-Tauri-000?style=flat&logo=tauri)
-![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?style=flat&logo=cloudflare)
+Windows System Tool Developer / Cloud-PE Team Member
 
 ---
 
-**项目**
+**Tech Stack**
 
-- [**LetRecovery**](https://github.com/NORMAL-EX/LetRecovery) - 免费开源的 Windows 系统重装工具 `Rust` `egui`
-- [**Bilibili-Down**](https://github.com/NORMAL-EX/Bilibili-Down) - B站视频解析下载器 `Rust` `egui`
-- [**Cloud-PE-One**](https://github.com/NORMAL-EX/Cloud-PE-One) - Cloud-PE 启动盘制作工具 `TypeScript` `Tauri`
-- [**LetWin**](https://github.com/NORMAL-EX/LetWin) - 获取原版 Windows 系统镜像 `TypeScript`
-- [**Cloud-MGR**](https://github.com/NORMAL-EX/Cloud-MGR) - Cloud-PE 插件市场 `Rust`
+![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-[![Blog](https://img.shields.io/badge/Blog-blog.cloud--pe.cn-black?style=flat)](https://blog.cloud-pe.cn)
+**Projects**
+
+- [**LetRecovery**](https://github.com/NORMAL-EX/LetRecovery) - Open-source Windows system reinstallation tool
+- [**Bilibili-Down**](https://github.com/NORMAL-EX/Bilibili-Down) - Bilibili video downloader built with Rust + egui
+- [**Cloud-PE-One**](https://github.com/NORMAL-EX/Cloud-PE-One) - Cloud-PE bootable USB creator
+- [**LetWin**](https://github.com/NORMAL-EX/LetWin) - Download official Windows ISO images
+- [**Cloud-MGR**](https://github.com/NORMAL-EX/Cloud-MGR) - Cloud-PE plugin marketplace
+
+---
+
+[![Blog](https://img.shields.io/badge/Blog-blog.cloud--pe.cn-blue?style=flat)](https://blog.cloud-pe.cn)
