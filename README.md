@@ -33,9 +33,9 @@ Windows System Tool Developer / Cloud-PE Team Member
 
 - [**LetRecovery**](https://github.com/NORMAL-EX/LetRecovery) - Open-source Windows system reinstallation tool
 - [**Bilibili-Down**](https://github.com/NORMAL-EX/Bilibili-Down) - Bilibili video downloader built with Rust + egui
-- [**Cloud-PE-One**](https://github.com/NORMAL-EX/Cloud-PE-One) - Cloud-PE bootable USB creator
+- [**Cloud-PE-One**](https://github.com/Cloud-PE/Cloud-PE-One) - Cloud-PE bootable USB creator
 - [**LetWin**](https://github.com/NORMAL-EX/LetWin) - Download official Windows ISO images
-- [**Cloud-MGR**](https://github.com/NORMAL-EX/Cloud-MGR) - Cloud-PE plugin marketplace
+- [**Cloud-MGR**](https://github.com/Cloud-PE/Cloud-MGR) - Cloud-PE plugin marketplace
 
 ---
 
