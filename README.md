@@ -1,5 +1,7 @@
 ### Hey, I'm NORMAL-EX 👋
 
+*中考期间先暂时停止项目开发，中考结束后再恢复项目开发
+
 Windows System Tool Developer / Cloud-PE Team Member
 
 ---
