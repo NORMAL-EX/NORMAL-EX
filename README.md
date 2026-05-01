@@ -1,12 +1,12 @@
 ### Hey, I'm NORMAL-EX 👋
 
-*中考期间先暂时停止项目开发，中考结束后再恢复项目开发
+**中考期间项目暂停开发，考试结束后恢复更新**
 
-Windows System Tool Developer / Cloud-PE Team Member
+**Windows 系统工具开发者 / Cloud-PE 团队成员**
 
 ---
 
-**Tech Stack**
+## 技术栈
 
 ![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -33,15 +33,10 @@ Windows System Tool Developer / Cloud-PE Team Member
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+**项目**
 
-**Projects**
-
-- [**LetRecovery**](https://github.com/NORMAL-EX/LetRecovery) - Open-source Windows system reinstallation tool
-- [**Bilibili-Down**](https://github.com/NORMAL-EX/Bilibili-Down) - Bilibili video downloader built with Rust + egui
-- [**Cloud-PE-One**](https://github.com/Cloud-PE/Cloud-PE-One) - Cloud-PE bootable USB creator
-- [**LetWin**](https://github.com/NORMAL-EX/LetWin) - Download official Windows ISO images
-- [**Cloud-MGR**](https://github.com/Cloud-PE/Cloud-MGR) - Cloud-PE plugin marketplace
+- [**LetRecovery**](https://github.com/NORMAL-EX/LetRecovery)
+- [**Cloud-PE**](https://github.com/Cloud-PE)
 
 ---
 
